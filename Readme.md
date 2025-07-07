@@ -22,7 +22,7 @@ A simple yet elegant frontend-only chat application built using **HTML**, **CSS*
 
 ![Bot Chat App Preview](screenshot.png)
 
-> 💡 You can take a screenshot of your app, name it `screenshot.png`, and place it in the repo to show this image on GitHub.
+> 💡 Ouput screenshot.
 
 ---
 
@@ -37,4 +37,11 @@ A simple yet elegant frontend-only chat application built using **HTML**, **CSS*
 ---
 
 ## 📁 Folder Structure
+
+bot_chat_app/
+├── index.html # Main layout
+├── style.css # All visual styles
+├── script.js # Chat logic and interactivity
+├── screenshot.png # (Optional) Preview image
+└── README.md # Project documentation
 
