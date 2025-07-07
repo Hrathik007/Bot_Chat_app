@@ -2,7 +2,7 @@
 
 A simple yet elegant frontend-only chat application built using **HTML**, **CSS**, and **JavaScript**. It simulates a conversation between a user and a rule-based chatbot — complete with time-stamped messages, typing indicators, and dark mode support.
 
-> 🔗 **Live Demo:** [Click Here](https://hrathik007.github.io/Bot_Chat_app)
+> 🔗 **Live Demo:** [Click Here](https://github.com/Hrathik007/Bot_Chat_app.git)
 
 ---
 
