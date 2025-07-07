@@ -20,7 +20,8 @@ A simple yet elegant frontend-only chat application built using **HTML**, **CSS*
 
 ## 🖼️ Screenshot
 
-[![Bot Chat App Preview](screenshot.png)](screenshot.png)
+![Bot Chat App Preview](screenshot.png)
+
 
 > 💡 Ouput screenshot.
 
